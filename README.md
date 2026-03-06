@@ -1,11 +1,6 @@
 # Deep Learning with PyTorch – Image Segmentation
 
-This project follows the **Coursera course: Deep Learning with PyTorch – Image Segmentation**  
-*(Verification ID: TQXF0B23K30A)*.
-
-## SaaS Web Application
-
-A lightweight **SaaS web application** using **Streamlit** allows users to upload an image, run it through the trained PyTorch model, and download the resulting images.
+A lightweight **SaaS web application** using Streamlit allows users to upload an image, run it through the trained PyTorch model, and download the resulting images.
 
 <div align="center">
   <img src="images/output2.png" width="48%" alt="Output example 2">
@@ -28,6 +23,7 @@ The deep learning model is based on the **U-Net** architecture with an **Efficie
   <img src="images/training.png" width="30%" alt="Training image">
 </div>
 
+#### TRAINING follows the **Coursera course: Deep Learning with PyTorch – Image Segmentation** - *(Verification ID: TQXF0B23K30A)*.
 ---
 
 
