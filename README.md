@@ -3,7 +3,7 @@
 Turns out, with the right dataset and a segmentation model, building your own background remover is actually pretty straightforward. I developed this project after completing a Coursera course: **Deep Learning with PyTorch – Image Segmentation**  
 *(Verification ID: TQXF0B23K30A)*.
 
-##  The Web App Showcase
+##  Applied what I learned to build a simple SaaS web app.
 
 To make this model easily accessible, I built a lightweight **SaaS web application** using **Streamlit**. The app allows users to upload any image, run it through the trained PyTorch model and download  results images.
 
