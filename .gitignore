@@ -9,6 +9,7 @@ env/
 .env
 .idea/
 .vscode/
+.streamlit/
 
 # Ignore large model files if you don't want to track them in git
 # best_model.pt

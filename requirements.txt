@@ -6,3 +6,7 @@ opencv-python-headless
 albumentations
 Pillow
 numpy
+
+# cd /Users/sithijaseneviratne/Documents/GitHub/Image-Segmentation
+# source venv/bin/activate
+# streamlit run app.py
