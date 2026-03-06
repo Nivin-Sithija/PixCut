@@ -9,8 +9,7 @@ Turns out, with the right dataset and a segmentation model, building your own ba
 This deep learning model is based on the **U-Net** architecture with an **EfficientNet-b0** encoder. Using PyTorch, it was trained to map input images to binary masks, effectively learning to identify and separate the main subject from the background pixel by pixel. 
 
 <div align="center">
-  <img src="images/training.png" width="48%" alt="Training image">
-  <img src="images/maskdataset.png" width="48%" alt="Mask dataset image">
+  <img src="images/training.png" width="30%" alt="Training image">
 </div>
 <p align="center"><em>Example of training data and the corresponding segmentation masks.</em></p>
 
@@ -21,8 +20,9 @@ This deep learning model is based on the **U-Net** architecture with an **Effici
 To make this model easily accessible, I built a lightweight **SaaS web application** using **Streamlit**. The app allows users to upload any image, run it through the trained PyTorch model on the fly, and download beautiful results.
 
 <div align="center">
-  <img src="images/output1.png" width="48%" alt="Output example 1">
   <img src="images/output2.png" width="48%" alt="Output example 2">
+  <img src="images/output1.png" width="36%" alt="Output example 1">
+
 </div>
 <p align="center"><em>Real-time inference running directly in the browser.</em></p>
 
