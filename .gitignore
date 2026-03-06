@@ -1,0 +1,14 @@
+venv/
+__pycache__/
+.DS_Store
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+.env
+.idea/
+.vscode/
+
+# Ignore large model files if you don't want to track them in git
+# best_model.pt
