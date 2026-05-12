@@ -3,8 +3,8 @@
 A lightweight **SaaS web application** using Streamlit allows users to upload an image, run it through the trained PyTorch model, and download the resulting images.
 
 <div align="center">
-  <img src="images/output2.png" width="48%" alt="Output example 2">
-  <img src="images/output1.png" width="36%" alt="Output example 1">
+  <img src="images/output2.webp" width="48%" alt="Output example 2">
+  <img src="images/output1.webp" width="36%" alt="Output example 1">
 </div>
 
 ### Tool Options Available:
